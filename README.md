@@ -1,4 +1,4 @@
-# Ping Pong Game (Python)
+# Ping Pong Game 
 
 Ein **kleines und eigenständiges Projekt**, das ich zur praktischen Anwendung meiner Grundlagen in Python entwickelt habe.
 
