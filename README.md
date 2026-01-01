@@ -12,4 +12,4 @@ Ein **kleines und eigenständiges Projekt**, das ich zur praktischen Anwendung m
 - Turtle  
 
 ## Ziel des Projekts
-Ziel dieses Projekts war es, grundlegende Konzepte der Programmierung wie Logik, Zustandsänderungen und Ereignissteuerung praktisch umzusetzen.
+Ziel dieses Projekts war es grundlegende Konzepte der Programmierung wie Logik, Zustandsänderungen und Ereignissteuerung praktisch umzusetzen.
